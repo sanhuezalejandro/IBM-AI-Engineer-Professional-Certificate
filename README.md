@@ -2,7 +2,6 @@
 
 https://www.coursera.org/professional-certificates/ai-engineer
 
-Alejandro Sanhueza's account is verified. Coursera certifies their successful completion of IBM AI Engineering Specialization.
 
 ## Course Certificates Completed
 
