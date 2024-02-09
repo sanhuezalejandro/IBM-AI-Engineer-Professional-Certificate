@@ -1,17 +1,19 @@
 # IBM-AI-Engineer-Professional-Certificate
 
-Alejandro Sanhueza's account is verified. Coursera certifies their successful completion of IBM IBM AI Engineering Specialization.
+https://www.coursera.org/professional-certificates/ai-engineer
 
-Course Certificates Completed
+Alejandro Sanhueza's account is verified. Coursera certifies their successful completion of IBM AI Engineering Specialization.
 
-Machine Learning with Python
+###Course Certificates Completed
 
-Deep Neural Networks with PyTorch
+**Machine Learning with Python**
 
-Introduction to Computer Vision and Image Processing
+**Deep Neural Networks with PyTorch**
 
-Building Deep Learning Models with TensorFlow
+**Introduction to Computer Vision and Image Processing**
 
-Introduction to Deep Learning & Neural Networks with Keras
+**Building Deep Learning Models with TensorFlow**
 
-AI Capstone Project with Deep Learning
+**Introduction to Deep Learning & Neural Networks with Keras**
+
+**AI Capstone Project with Deep Learning**
